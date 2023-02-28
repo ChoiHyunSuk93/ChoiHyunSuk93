@@ -1,3 +1,5 @@
+<img src="iu.PNG" width=200 height=200> </img>
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ChoiHyunSuk93&show_icons=true&theme=radical)](https://github.com/ChoiHyunSuk93)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
